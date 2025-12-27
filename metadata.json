@@ -1,0 +1,7 @@
+{
+  "name": "SVT Assistant - M. EL OMRANI",
+  "description": "An interactive voice assistant for SVT (Life and Earth Sciences) students, based on the curriculum of Mr. EL OMRANI. Supports real-time voice conversation using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
